@@ -1,0 +1,4 @@
+name = "dsp"
+uuid = "f1dac553-106d-437d-afce-f95c615e770b"
+authors = ["Philip Stuckey <pstuc002@gmail.com>"]
+version = "0.1.0"
