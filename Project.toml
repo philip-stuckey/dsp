@@ -2,3 +2,6 @@ name = "dsp"
 uuid = "f1dac553-106d-437d-afce-f95c615e770b"
 authors = ["Philip Stuckey <pstuc002@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
